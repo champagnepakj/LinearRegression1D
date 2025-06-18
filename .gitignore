@@ -1,0 +1,19 @@
+# Ignore build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+*.vcxproj.user
+*.suo
+*.opensdf
+*.sdf
+*.cache
+*.db
+
+# Ignore build folders
+x64/
+Debug/
+.vs/
